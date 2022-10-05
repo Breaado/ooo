@@ -12,7 +12,7 @@
 * 글자체
 **bold**<br>
 _italic_
-~strikethrough~~
+~~strikethrough~~
 
 * 링크넣기
 [링크 이름](www.naver.com)
